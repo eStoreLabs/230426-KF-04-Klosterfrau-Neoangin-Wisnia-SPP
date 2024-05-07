@@ -62,7 +62,7 @@
 #es-neo.es-neo .es-kv__title {
   font-family: 'Montserrat Bold Italic', sans-serif;
   font-weight: 600;
-  font-size: 48px;
+  font-size: 42px;
   line-height: inherit;
   margin: 0;
   padding: 0;
@@ -75,7 +75,7 @@
 #es-neo.es-neo .es-kv__subtitle {
   font-family: 'Montserrat Bold Italic', sans-serif;
   font-weight: 600;
-  font-size: 36px;
+  font-size: 32px;
   line-height: inherit;
   margin: 0;
   padding: 0;
@@ -227,6 +227,7 @@
 
 #es-neo.es-neo .es-benefits__icon {
   width: 90px;
+  min-width: 85px;
 }
 
 #es-neo.es-neo .es-benefits__picture {
@@ -318,7 +319,7 @@
 #es-neo.es-neo .es-cross__title {
   font-family: 'Montserrat Bold Italic', sans-serif;
   font-weight: 600;
-  font-size: 36px;
+  font-size: 26px;
   line-height: inherit;
   margin: 0;
   padding: 0;
@@ -417,7 +418,7 @@
 }
 
 #es-neo.es-neo .es-disclaimer__text--2 {
-  font-size: 32px;
+  font-size: 26px;
 }
 
 @media screen and (min-width: 768px) {
@@ -431,13 +432,13 @@
     width: 30%;
   }
   #es-neo.es-neo .es-kv__title {
-    font-size: 36px;
-    margin-top: -140px;
+    font-size: 40px;
+    margin-top: -110px;
     margin-bottom: 0;
     margin-left: 25%;
   }
   #es-neo.es-neo .es-kv__subtitle {
-    font-size: 36px;
+    font-size: 38px;
     margin-left: 25%;
     margin-bottom: 48px;
   }
@@ -489,6 +490,7 @@
   }
   #es-neo.es-neo .es-benefits__item {
     gap: 15px;
+    align-items: center;
   }
   #es-neo.es-neo .es-benefits__picture::after {
     content: url(../images/arrow-2.png);
