@@ -462,16 +462,16 @@
   }
   #es-neo.es-neo .es-benefits__title {
     font-size: 42px;
-    padding-top: 300px;
+    padding-top: 210px;
     max-width: unset;
     margin-bottom: 160px;
     position: relative;
     margin-left: 48px;
   }
   #es-neo.es-neo .es-benefits__title::after {
-    content: url('../images/arrow-1.png');
+    content: url(../images/arrow-1.png);
     position: absolute;
-    bottom: -33%;
+    bottom: -50%;
     left: 38%;
   }
   #es-neo.es-neo .es-benefits__content {
