@@ -19,7 +19,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
-  max-width: 769px;
+  max-width: 731px;
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
@@ -669,7 +669,7 @@
   }
 
   #es-neo.es-neo .es-info__title {
-    font-size: 32px;
+    font-size: 31px;
   }
 
   #es-neo.es-neo .es-info {
@@ -677,7 +677,7 @@
   }
 
   #es-neo.es-neo .es-info__txt {
-    font-size: 22px;
+    font-size: 20px;
   }
   #es-neo.es-neo .es-info__content::after {
     content: '';
